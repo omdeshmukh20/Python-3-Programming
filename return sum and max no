@@ -1,0 +1,40 @@
+### Write a program which accept N numbers from user and store it into List. Return addition of all 
+elements from that List. 
+
+def main():
+	arr=[]
+	print("Enter the no of elements")
+	size=int(input())
+
+	for i in range(size):
+		print("The no of element is",i+1)
+		no=int(input())
+		arr.append(no)
+
+	print("The no of given elements are",arr)
+	print("The sum of given elements in arr is",sum(arr))
+
+
+if __name__ == '__main__':
+	main()
+  
+  
+### Write a program which accept N numbers from user and store it into List. Return Maximum 
+number from that List.   
+
+def main():
+	arr=[]
+	print("Enter the number of elements:")
+	no=int(input())
+
+	for i in range(no):
+		print("The entered element is:",i+1)
+		no=int(input())
+		arr.append(no)
+
+	print("The entered elements are",arr)
+	print("The maximun number of the enterd element is",max(arr))		
+
+
+if __name__ == '__main__':
+		main()	

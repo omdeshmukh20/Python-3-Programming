@@ -1,0 +1,13 @@
+#Discription: Size of arguement
+#input: numer of argument
+#output: Number of arguement is 1
+#Date: 11/06/21
+#Author : Om Deshmukh
+
+import sys
+
+def main():
+	print("Number of arguements are",len(sys.argv))
+
+if __name__ == '__main__':
+	main()

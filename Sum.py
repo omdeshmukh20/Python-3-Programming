@@ -13,3 +13,6 @@ def main():
 
 	print("The no of given elements are",arr)
 	print("The sum of given elements in arr is",sum(arr))
+if __name__=="__main__":
+	main()
+	

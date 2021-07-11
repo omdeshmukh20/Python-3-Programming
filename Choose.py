@@ -1,4 +1,4 @@
-#Discription: the choosen appears in arr
+#Discription: The choosen appears in arr
 #Date: 11/07/21
 #Author : Om Deshmukh
 def main():

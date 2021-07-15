@@ -1,4 +1,4 @@
-#Discription: Check string
+#Discription: Check string.
 #Date: 15/07/21
 #Author : Om Deshmukh
 main=input("Enter a Main String:")

@@ -1,6 +1,6 @@
 #Discription: Check string.
 #Date: 15/07/21
-#Author : Om Deshmukh
+#Author:Om Deshmukh
 main=input("Enter a Main String:")
 sub=input("Enter a SubString:")
 

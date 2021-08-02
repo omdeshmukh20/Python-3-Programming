@@ -1,6 +1,7 @@
-# Python Program to find the factors of a number
+#Discription: Python Program to find the factors of a number
+#Date: 02/08/21
+#Author : Om Deshmukh
 
-# This function computes the factor of the argument passed
 def print_factors(x):
    print("The factors of",x,"are:")
    for i in range(1, x + 1):

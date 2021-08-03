@@ -1,4 +1,6 @@
-# Python Program to Print Natural Numbers in Reverse Order
+#Discription: Python Program to Print Natural Numbers in Reverse Order
+#Date: 03/08/21
+#Author : Om Deshmukh
  
 number = int(input("Please Enter any Number: "))
 i = number

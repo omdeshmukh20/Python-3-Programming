@@ -1,4 +1,4 @@
-#Discription: Addition using function
+#Discription: Addition of 2 numbers
 #Date: 10/08/21
 #Author : Om Deshmukh
 

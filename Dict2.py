@@ -1,4 +1,4 @@
-#Discription: Program for finding name of batch from directory. 
+#Discription: Program for finding name of batch from directory..
 #Date: 26/06/21
 #Author : Om Deshmukh
 

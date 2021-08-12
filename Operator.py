@@ -1,4 +1,4 @@
-#Discription: Simple addition
+#Discription: Simple addition.
 #Date: 25/06/21
 #Author : Om Deshmukh
 

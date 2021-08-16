@@ -5,7 +5,7 @@
 #Result of arr=brr [False False  True False]
 #Result of arr>=brr [False False  True  True]
 
-#Description:Compare Arrays Between two Arrays.
+#Description:Compare Arrays Between two Arrays..
 #Date: 14/07/2021
 #Author: Om Deshmukh
 

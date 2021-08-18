@@ -1,6 +1,6 @@
 ##Discription: Entering the character..
 #Date: 09/08/21
-#Author : Om Deshmukh
+#Author : Om Deshmukh.
 
 def main():
 

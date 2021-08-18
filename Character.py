@@ -1,4 +1,4 @@
-##Discription: Entering the character
+##Discription: Entering the character.
 #Date: 09/08/21
 #Author : Om Deshmukh
 

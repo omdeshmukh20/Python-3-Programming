@@ -1,5 +1,5 @@
 #Discription: Executing numeric datatypes
-#Date: 07/08/21..
+#Date: 07/08/21.
 #Author : Om Deshmukh.
 
 a=1

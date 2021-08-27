@@ -1,5 +1,5 @@
   
-#Function Name:Diagonal
+#Function Name:Diagonal.
 #Input:--
 
 #Output:Diagonal Elements is [1,5,9]

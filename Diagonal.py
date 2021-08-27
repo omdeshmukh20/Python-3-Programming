@@ -1,6 +1,6 @@
   
 #Function Name:Diagonal.
-#Input:--
+#Input:--.
 
 #Output:Diagonal Elements is [1,5,9]
 

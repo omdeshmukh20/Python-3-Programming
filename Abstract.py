@@ -41,7 +41,7 @@ obj1.calculate(16)
 obj2 = Sub2()
 obj2.calculate(16)
 
-# Create Sub3 Class Object And Call Calculate() Method
+# Create Sub3 Class Object And Call Calculate() Method.
 
 obj3 =Sub3()
 obj3.calculate(16)

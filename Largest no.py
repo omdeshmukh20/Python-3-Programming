@@ -1,4 +1,4 @@
-#Discription: Python Program to. find Largest of Two Numbers.
+#Discription: Python Program to find Largest of Two Numbers.
 #Date: 03/08/21
 #Author : Om Deshmukh
 

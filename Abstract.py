@@ -1,4 +1,4 @@
-# Python Program To Create Abstract Class And Sub Classes 
+# Python Program To Create Abstract Class And Sub Classes .
 # Which Implement The Abstract Method Of The Abstract Class.
 
 #Discription: Python Program To Create Abstract Class And Sub Classes .

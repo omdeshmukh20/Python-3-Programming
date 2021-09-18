@@ -1,6 +1,6 @@
 #Discription: Addition of two numbers using function
 #input: From user
-#output: Expected to user
+#output: Expected to user.
 #Date: 10/06/21
 #Author : Om Deshmukh
 

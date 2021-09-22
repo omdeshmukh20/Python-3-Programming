@@ -1,6 +1,6 @@
 .
 #Discription :Add,sub,mul,div...
-#Date: 2/07/21..
+#Date: 2/07/21...
 #Author : Om Deshmukh
 def add(value1,value2):
 	add=value1+value2

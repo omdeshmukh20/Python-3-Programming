@@ -1,4 +1,4 @@
-#Discription: Python Program In Which RollsRoyce Sub Class Implements The Abstract Methods Of The Super Class, Car
+#Discription: Python Program In Which RollsRoyce Sub Class Implements The Abstract Methods Of The Super Class, Car.
 #Date: 24/08/21
 #Author : Om Deshmukh
 

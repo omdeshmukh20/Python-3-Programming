@@ -1,5 +1,5 @@
 #Discription: 1st program..
-#input: Jay Ganesh.
+#input: Jay Ganesh..
 #output: Jay Ganesh..
 #Date: 9/06/2
 #Author : Om Deshmukh
